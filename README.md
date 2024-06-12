@@ -8,7 +8,7 @@ PHPMailer is not inclued in this repo to download and place where the code expec
 
 ---
 This repostory contains PHP code that takes song requests and them using using the configured SMTP server located in the index.php file.
-![Example Screenshot](Screenshot.png)
+![Example Screenshot](screenshot.png)
 
 ## Why PHP?
 
