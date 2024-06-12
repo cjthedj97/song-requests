@@ -1,7 +1,7 @@
 # Using A Website for DJ Song Requests
 This repostory contains PHP code that takes song requests and them using using the configured SMTP server located in the index.php file.
 
-**PHPMailer is not inclued.**
+**PHPMailer is not included.**
 
 
 ![Example Screenshot](screenshot.png)
