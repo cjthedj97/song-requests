@@ -2,7 +2,7 @@
 require 'send_mail.php';
 
 // Define constants for Turnstile and SMTP
-define('SECRET_KEY', 'Cloudflare_Turnstyle_Secret_key');
+define('SECRET_KEY', '1x0000000000000000000000000000000AA');
 define('SMTP_HOST', 'Enter_SMTP_Server_Here');
 define('SMTP_PORT', 587);
 define('SMTP_USER', 'Enter_Username_Here');
