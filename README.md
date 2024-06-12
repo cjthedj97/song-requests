@@ -1,9 +1,3 @@
-This is my new song request site built to connect to any SMTP server using PHPMailer.
-PHPMailer is not inclued in this repo to download and place where the code expectes you can run the following
-
-
-
-
 # Using A Website for DJ Song Requests
 This repostory contains PHP code that takes song requests and them using using the configured SMTP server located in the index.php file.
 
